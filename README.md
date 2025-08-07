@@ -1,9 +1,9 @@
-a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=8A2BE2&center=true&width=1000&height=200&lines=MASTER-IP-MD" alt="Typing SVG" /></a>
+a href= "https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=8A2BE2&center=true&width=1000&height=200&lines=MASTER-IP-MD" alt="Typing SVG" /></a>
   </div>
 <a><img src='https://files.catbox.moe/1cp4yq.jpeg'/></a>
 
 <p align="center">
-  <a href="https://github.com/tkttech"><img title="Developer" src="https://img.shields.io/badge/Author-TKT-TECH%20MD-FF00FF.svg?style=big-square&logo=github" /></a>
+  <a href="https://github.com/tkttech"><img title="Developer" src="https://img.shields.io/badge/Author-MASTER-IP_MD%20MD-FF00FF.svg?style=big-square&logo=github" /></a>
 </p>
 
 <div align="center">
@@ -17,7 +17,7 @@ a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.c
 
 ---------
 
- <p align="center"><img src="https://profile-counter.glitch.me/{TAFADZWA-TKT}/count.svg" alt="TKTTECH :: Visitor's Count" old_src="https://profile-counter.glitch.me/{TAFADZWA-TKT}/count.svg" /></p>
+ <p align="center"><img src="https://profile-counter.glitch.me/{TAFADZWA-TKT}/count.svg" alt="tkttech :: Visitor's Count" old_src="https://profile-counter.glitch.me/{TAFADZWA-TKT}/count.svg" /></p>
 
 
 <p align="center">
