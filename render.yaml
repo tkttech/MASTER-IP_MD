@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: MASTER-IP_MD
+    env: docker
+    plan: free
+    branch: main
+    repo: https://github.com/tkttech/MASTER-IP_MD
+    dockerfilePath: ./Dockerfile
+    autoDeploy: true
