@@ -9,7 +9,7 @@ a href= "https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.
 <div align="center">
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=⚡+MASTER-IP_MD+MD+BETTER+OPTION;🔥+The+Most+Powerful+WhatsApp+Bot;💻+created+by+TAFADZWA+TKT;🚀+TKT-CYBER+V5+Solutions;🌈+Fast+⚡+Secure+🔒+Reliable+✅" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=⚡+MASTER-IP_MD+MD+BETTER+OPTION;🔥+The+Most+Powerful+WhatsApp+Bot;💻+created+by+MASTER-IP;🚀+MSTR-CYBER+V5+Solutions;🌈+Fast+⚡+Secure+🔒+Reliable+✅" alt="Typing Animation">
 </h1>
   
 [![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-9ACD32?style=big-square&logo=whatsapp)](https://whatsapp.com/channel/0029Vb5vbMM0LKZJi9k4ED1a)
